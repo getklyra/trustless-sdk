@@ -1,7 +1,11 @@
 # Klyra Trustless™ Moderation SDK
 
-Open-source **client SDK** for using Klyra’s Trustless™ end-to-end encrypted moderation mode.
-Encrypt content **client-side**, send via secure gateway, and receive **structured JSON** decisions in under 200ms.
+Klyra Trustless™ Moderation SDK is an **open-source toolkit** that helps platforms handle
+online content responsibly **without exposing user data**. It provides a vendor-neutral way to run moderation requests that are encrypted on the client,
+processed securely on the server, and explained with transparent policy rules.  
+
+This lets small platforms and open-source projects meet **DSA/GDPR requirements** for
+content safety, while keeping privacy, transparency, and interoperability at the core.
 
 ## ✨ Features
 - 🔒 **End-to-End Encryption** — encrypt on client, decrypt only in secure memory, zero logs.
